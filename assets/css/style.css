@@ -204,7 +204,7 @@ html,body{
 .navbar-brand,
 .navbar-brand:hover,
 .navbar-brand:focus{
-	margin-top: 33px;
+	margin-top: 0px;
 	padding:0;
 }/* navbar-brand */
 
@@ -942,13 +942,13 @@ a:focus.service-btn{
 	background: url(../../assets/images/team/team.jpg) no-repeat;
 }
 .team-box-bg-2{
-	background: url(../../assets/images/team/team3.jpg) no-repeat;
-}
-.team-box-bg-3{
 	background: url(../../assets/images/team/team2.jpg) no-repeat;
 }
-.team-box-bg-4{
+.team-box-bg-3{
 	background: url(../../assets/images/team/team3.jpg) no-repeat;
+}
+.team-box-bg-4{
+	background: url(../../assets/images/team/team4.jpg) no-repeat;
 }/*team-box-bg*/
 
 
@@ -1562,7 +1562,7 @@ a:active.learn-btn{
 	text-transform: capitalize;
 }
 .hm-foot-title .logo{
-	margin-bottom: 32px;
+	margin-bottom: px;
 }
 .hm-foot-para p{
 	color:#aaa;
